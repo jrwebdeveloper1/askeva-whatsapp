@@ -7,7 +7,7 @@ A Laravel package to seamlessly integrate with the AskEva WhatsApp API. This pac
 You can install the package via composer (assuming it is published to Packagist or a custom repository):
 
 ```bash
-composer require askeva/whatsapp
+composer require jrwebdeveloper1/askeva-whatsapp
 ```
 
 ### Publish the Configuration

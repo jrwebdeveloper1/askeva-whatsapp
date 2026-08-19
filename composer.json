@@ -1,6 +1,13 @@
 {
-    "name": "askeva/whatsapp",
+    "name": "jrwebdeveloper1/askeva-whatsapp",
     "description": "AskEva WhatsApp API Integration for Laravel",
+    "keywords": ["laravel", "whatsapp", "askeva", "api", "webhook"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "jrwebdeveloper1"
+        }
+    ],
     "type": "library",
     "require": {
         "php": "^8.0",
